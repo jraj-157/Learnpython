@@ -17,7 +17,7 @@ g = input("b:")
 h = int(f)+int(g)
 print(int(h)/2)
 # 6
-from cmath import sqrt
+from math import sqrt
 import math
 z = input("enter no.:")
 print(sqrt(int(z)))
